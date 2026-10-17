@@ -5,7 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1400&color=7C83FD&center=true&vCenter=true&width=640&height=40&lines=I+ship+products+end+to+end;I+work+with+AI+agents+I+control;I+automate+and+digitalise+business+processes;Now+exploring%3A+reverse+engineering+with+AI" alt="typing" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-leon--knezevic-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leon-knezevic)
-![Profile views](https://komarev.com/ghpvc/?username=lknezevicc&style=flat&color=7C83FD)
 
 </div>
 
