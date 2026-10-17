@@ -10,17 +10,15 @@
 
 ## About
 
-- Software developer at **Buzzlo**. I build and run two production SaaS products: **OneDown** (inventory for bars, restaurants and hotels) and **Cvik** (shifts, time tracking and timesheets for multi-location teams).
-- Full stack, from the API to the mobile app to deployment: NestJS, React, Flutter, Cloudflare, Coolify.
-- I code with AI agents under tight control. Architecture, rules, tests and review stay with me, the agents do the typing (Cursor, Hermes Agent, OpenCode, GitButler).
+- Software engineer, full stack from the API to the mobile app to deployment.
+- I code with AI agents under tight control. Architecture, rules, tests and review stay with me, the agents do the typing.
 - M.Sc. student of Informatics at TVZ, Zagreb.
-- Looking for forward-deployed engineering work: taking AI and automation from a demo to a customer's daily routine.
 
 ## Stack
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=ts,react,vite,tailwind,nestjs,nodejs,bun,prisma,flutter,dart,java,spring,postgres,redis,rabbitmq,docker,cloudflare,githubactions,astro,python,linux,git)
+![Skills](https://skillicons.dev/icons?i=ts,react,vite,tailwind,nestjs,nodejs,flutter,dart,java,spring,postgres,redis,rabbitmq,docker,cloudflare,githubactions,python,linux,git)
 
 </div>
 
